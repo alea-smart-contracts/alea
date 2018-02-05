@@ -1,2 +1,3 @@
-# alea
-Alea.cr
+# Alea.cr
+
+Smart contract for http://alea.cr
